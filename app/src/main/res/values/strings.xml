@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="todo">todo</string>
+    <string name="delete_all">Delete All</string>
+    <string name="empty">Empty.</string>
+</resources>
